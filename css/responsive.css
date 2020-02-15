@@ -92,7 +92,7 @@
         padding: 0px 0px;
     }
     .navbar-light .navbar-brand {
-        padding: -100px -100px -100px -100px;
+        padding: 0px 0px 0px 0px;
     }
     .main_menu_area .navbar .navbar-nav li {
         display: block;
@@ -100,7 +100,7 @@
     }
     .main_menu_area .navbar .navbar-nav li a {
         display: block;
-        line-height: 50px;
+        line-height: 00px;
         padding: 0px 0px;
         border-bottom: 1px solid rgba(255, 255, 255, .05);
     }
