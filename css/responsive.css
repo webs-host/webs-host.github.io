@@ -101,7 +101,7 @@
     .main_menu_area .navbar .navbar-nav li a {
         display: block;
         line-height: 50px;
-        padding: 0px 15px;
+        padding: 0px 16px;
         border-bottom: 1px solid rgba(255, 255, 255, .05);
     }
     .main_menu_area .navbar .navbar-nav li:hover a, .main_menu_area .navbar .navbar-nav li.active a {

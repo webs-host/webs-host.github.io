@@ -1378,7 +1378,7 @@ i:before {
 .contact_us_form .form-group input {
   height: 50px;
   border: none;
-  border-bottom: 2px solid #e1e1e1;
+  border-bottom: 2px solid #000000;
   border-radius: 0px;
   padding: 0px;
   outline: none;
@@ -1387,35 +1387,35 @@ i:before {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
 }
 
 .contact_us_form .form-group input.placeholder {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
 }
 
 .contact_us_form .form-group input:-moz-placeholder {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
 }
 
 .contact_us_form .form-group input::-moz-placeholder {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
 }
 
 .contact_us_form .form-group input::-webkit-input-placeholder {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
 }
 
 .contact_us_form .form-group input:focus {
@@ -1429,7 +1429,7 @@ i:before {
 .contact_us_form .form-group textarea {
   height: 200px;
   border: none;
-  border-bottom: 2px solid #e1e1e1;
+  border-bottom: 2px solid #000000;
   border-radius: 0px;
   padding: 15px 0px;
   outline: none;
@@ -1438,7 +1438,7 @@ i:before {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
   resize: none;
 }
 
@@ -1446,28 +1446,28 @@ i:before {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
 }
 
 .contact_us_form .form-group textarea:-moz-placeholder {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
 }
 
 .contact_us_form .form-group textarea::-moz-placeholder {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
 }
 
 .contact_us_form .form-group textarea::-webkit-input-placeholder {
   font-size: 13px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
-  color: #a5bbd0;
+  color: #000000;
 }
 
 .contact_us_form .form-group textarea:focus {
