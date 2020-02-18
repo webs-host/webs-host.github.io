@@ -139,7 +139,9 @@
                 margin: 0,
                 items: 1,
                 nav:false,
-                autoplay: false,
+                autoplay: true,
+                autoplayTimeout:2000,
+                autoplayHoverPause:true,
                 smartSpeed: 1500,
                 dots:true,
                 center: true
